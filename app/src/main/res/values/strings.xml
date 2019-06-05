@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitchApp</string>
+    <string name="error">Oops, and error occurred.&#8230;</string>
+    <string name="error_no_internet">An error occurred. Please connect to Internet.&#8230;</string>
+    <string name="channel">Channels:</string>
+    <string name="viewers">Viewers:</string>
+</resources>
